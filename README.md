@@ -1,6 +1,11 @@
 #  StockVision AI
-
+## Machine Learning Powered Stock Market Prediction and Technical Analysis Platform
 An advanced Machine Learning-powered stock market prediction dashboard built with **Python, Streamlit, Scikit-Learn, and Plotly**. The application predicts future stock closing prices using historical market data and technical indicators while providing intelligent trading signals, risk analysis, and interactive visualizations.
+
+---
+Live Demo
+
+🔗 Streamlit App: https://stockvision-ai-machine-learning-powered-stock-market-predictor.streamlit.app/
 
 ---
 
@@ -45,6 +50,11 @@ An advanced Machine Learning-powered stock market prediction dashboard built wit
 - Responsive Dashboard
 - Real-Time Metrics
 - Interactive Controls
+
+---
+## project Screenshot
+<img width="1440" height="811" alt="Screen Shot 2026-06-16 at 8 38 51 PM" src="https://github.com/user-attachments/assets/610767b5-f3e6-4f25-acf2-23b52f7d3c4d" />
+<img width="1440" height="812" alt="Screen Shot 2026-06-16 at 8 39 19 PM" src="https://github.com/user-attachments/assets/010fc69c-aa9a-49e4-a10b-a382f363d194" />
 
 ---
 
